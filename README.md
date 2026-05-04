@@ -37,7 +37,7 @@ Projeto do curso DIO Caixa Inteligência Artificial
     👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="https://www.linkedin.com/in/Danilo Silva/" 
       align="center">
            <img 
             align="center" 
@@ -45,7 +45,7 @@ Projeto do curso DIO Caixa Inteligência Artificial
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             >
         </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
+        <a href="https://www.instagram.com/" target="_blank">
             <img 
               align="center" 
               alt="Instagram" 
